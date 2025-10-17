@@ -1,0 +1,1 @@
+"C:\Program Files\Capturing Reality\RealityCapture\RealityCapture.exe" -delegateTo * -addFolder C:\Users\matte\Desktop\MonitoringFolder -detectMarkers -draft
