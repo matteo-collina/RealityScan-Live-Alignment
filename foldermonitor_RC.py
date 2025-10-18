@@ -40,7 +40,7 @@ class FileHandler(FileSystemEventHandler):
 class App(QWidget):
     def __init__(self):
         super().__init__()
-        self.setWindowTitle("Reality Capture Monitoring Folder App")
+        self.setWindowTitle("Reality Capture Watchdog App")
 
         self.path_edit = QLineEdit(self)
         self.path_edit.setReadOnly(True)
